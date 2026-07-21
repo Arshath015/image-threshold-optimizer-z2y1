@@ -17,3 +17,9 @@ Image Threshold Optimizer
 - Integrate with AIERA CAD for real-time threshold optimization
 ## License
 - MIT License
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
